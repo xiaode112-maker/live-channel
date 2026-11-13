@@ -1,0 +1,204 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Jade.hk" group-title="TVB",TVB 翡翠台（2026-11-13 失效）
+http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
+#EXTINF:-1 tvg-id="GoldenJade.hk" group-title="TVB",黃金翡翠台（2026-11-13 失效）
+http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
+#EXTINF:-1 tvg-id="AsianDrama.hk" group-title="TVB",亞洲劇台（2026-11-13 失效）
+http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
+#EXTINF:-1 tvg-id="GoldenChineseDrama.hk" group-title="TVB",黃金華劇台（2026-11-13 失效）
+http://103.172.187.30:12000/stream/mytv/null-8/master.m3u8
+#EXTINF:-1 group-title="同源其他",美亞電影台（2026-11-13 失效）
+http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
+#EXTINF:-1 group-title="同源其他",中國電影頻道（2026-11-13 失效）
+http://103.172.187.30:12000/stream/mytv/null-3/master.m3u8
+#EXTINF:-1 group-title="同源其他",創世電視（2026-11-13 失效）
+http://103.172.187.30:12000/stream/mytv/null-4/master.m3u8
+#EXTINF:-1 tvg-id="HOYInfotainment.hk" group-title="香港",HOY 資訊台 78
+https://hoytv-live-stream.hoy.tv/ch78/index.m3u8
+#EXTINF:-1 tvg-id="HOYTV.hk" group-title="香港",HOY TV 77 主台
+https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
+#EXTINF:-1 tvg-id="HongKongInternationalBusinessChannel.hk" group-title="香港",HOY 財經台 76
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+#EXTINF:-1 tvg-id="RTHKTV31.hk" group-title="香港",港台電視 RTHK 31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-id="RTHKTV32.hk" group-title="香港",港台電視 RTHK 32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 tvg-id="ViuTV.hk" group-title="香港",ViuTV 99
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 tvg-id="AXNAsia.sg" group-title="香港",AXN 亞洲台
+http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 tvg-id="PTS.tw" group-title="台灣",公視 PTS 主台
+https://www.youtube.com/watch?v=C6gYqSHLRw4
+#EXTINF:-1 tvg-id="PTS3.tw" group-title="台灣",小公視 PTS XS（2026-11-13 失效）
+http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" group-title="台灣",原住民族電視台 TITV
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 tvg-id="EBCForeignMovie.tw" group-title="台灣",東森洋片台（2026-11-13 失效）
+http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="TVBSAsia.tw" group-title="台灣",TVBS-Asia 歡樂台
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-id="SJTV.tw" group-title="台灣",信吉電視台 SJTV（2026-11-13 失效）
+http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="TTVNews.tw" group-title="台灣",台視新聞 TTV News
+https://live.wcetv.com/hls/master-ttvnews.m3u8
+#EXTINF:-1 tvg-id="HBOAsia.sg@Taiwan" group-title="台灣衛星",HBO Asia 台灣
+http://125.227.210.55:1003/VideoInput/play.ts
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" group-title="台灣衛星",Cinemax Asia
+http://125.227.210.55:1001/VideoInput/play.ts
+#EXTINF:-1 tvg-id="DiscoveryAsiaTaiwan.tw" group-title="台灣衛星",Discovery Asia 台灣
+http://125.227.210.55:1004/VideoInput/play.ts
+#EXTINF:-1 tvg-id="NBC.us" group-title="美國",NBC Bay Area KNTV 舊金山灣區
+http://50.229.129.155/0.ts
+#EXTINF:-1 tvg-id="NBC.us@KSBW" group-title="美國",NBC KSBW 蒙特雷-沙利納斯
+https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8
+#EXTINF:-1 tvg-id="NBC.us@KNSD" group-title="美國",NBC 7 San Diego 聖地牙哥
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+#EXTINF:-1 tvg-id="NBC.us@KRIS" group-title="美國",NBC KRIS-TV 科珀斯克里斯蒂
+https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
+#EXTINF:-1 tvg-id="NBC.us@KSHB" group-title="美國",NBC 堪薩斯城 KSHB
+https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
+#EXTINF:-1 tvg-id="NBC.us@WPTV" group-title="美國",NBC 西棕櫚灘 WPTV
+https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
+#EXTINF:-1 tvg-id="NBC.us@KXAS" group-title="美國",NBC 達拉斯 KXAS
+https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a&ads.xumo_ifaType=&ads.xumo_providerId=3831&ads.xumo_providerName=NBCNDAL
+#EXTINF:-1 tvg-id="ABC.us@KSTP" group-title="美國",ABC 明尼阿波利斯 KSTP
+https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC.us@WDIO" group-title="美國",ABC 杜魯斯 WDIO
+https://amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC.us@KAAL" group-title="美國",ABC 羅切斯特 KAAL
+https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC.us@KMGH" group-title="美國",ABC 丹佛 KMGH
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 tvg-id="CBS.us@KZTV" group-title="美國",CBS 科珀斯克里斯蒂 KZTV
+https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8
+#EXTINF:-1 tvg-id="CBS.us@KIRO" group-title="美國",CBS 西雅圖 KIRO
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@KTTV" group-title="美國",FOX 洛杉磯 KTTV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@KDFW" group-title="美國",FOX 達拉斯 KDFW
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@WNYW" group-title="美國",FOX 紐約 WNYW
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@KRIV" group-title="美國",FOX 休斯頓 KRIV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@WTTG" group-title="美國",FOX 華盛頓 WTTG
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@WJBK" group-title="美國",FOX 底特律 WJBK
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@WTVT" group-title="美國",FOX 坦帕 WTVT
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@KSAZ" group-title="美國",FOX 鳳凰城 KSAZ
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@KTBC" group-title="美國",FOX 奧斯汀 KTBC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="PBS.us@East" group-title="美國",PBS 主台 East
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 tvg-id="PBS.us@KMOS" group-title="美國",PBS KMOS 密蘇里
+https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us" group-title="美國",FOX Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" group-title="美國",NBC News NOW
+https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" group-title="美國",LiveNOW from FOX
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSoul.us" group-title="美國",FOX Soul
+https://foxsoul-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="美國",FX（2026-11-13 失效）
+https://tvsen7.aynascope.net/fx/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.us" group-title="卡通",Cartoon Network 美國東岸
+https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F212.5.144.156%3A8080%2Fcartoon%2Findex.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us" group-title="卡通",Nickelodeon 美國東岸（2026-11-13 失效）
+http://198.58.104.90:8989/nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="Boomerang.us" group-title="卡通",Boomerang 美國
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us" group-title="卡通",Disney Junior 美國東岸
+https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F212.5.144.156%3A8080%2Fdisneyjr%2Ftracks-v1a1%2Fmono.m3u8
+#EXTINF:-1 tvg-id="Pop.uk" group-title="卡通",英國 Pop 卡通台
+https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="TinyPop.uk" group-title="卡通",英國 Tiny Pop 幼兒卡通台
+https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="MoonbugKids.uk" group-title="卡通",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk" group-title="卡通",Mr Bean 動畫台
+https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" group-title="英國",BBC News 英國
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk" group-title="英國",GB News 英國
+https://amg01076-lightning-amg01076c7-lg-gb-2019.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="TalkTV.uk" group-title="英國",TalkTV 英國
+https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8
+#EXTINF:-1 group-title="美國",SYFY
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 group-title="波蘭",HBO 2 波蘭
+http://185.227.34.179:8080/hbo-2-hd/index.m3u8
+#EXTINF:-1 group-title="拉美",Cinemax 拉美
+https://streaming.onnethn.com/CINEMAX/playlist.m3u8
+#EXTINF:-1 group-title="捷克",Cinemax 捷克
+http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="巴西",Sony Movies 巴西
+http://170.83.16.50/SONY_MOVIES/index.m3u8
+#EXTINF:-1 group-title="美國",Hallmark Movies & More
+https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
+#EXTINF:-1 group-title="美國",AMC（2026-11-13 失效）
+http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1 group-title="美國",Cinemax 美國西岸
+http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
+#EXTINF:-1 group-title="美國",MoreMax
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 group-title="美國",IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:-1 group-title="美國",Starz 美國西岸
+http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
+#EXTINF:-1 group-title="美國",Starz Comedy
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+#EXTINF:-1 group-title="美國",Paramount Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 group-title="美國",Showtime Family Zone
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+#EXTINF:-1 group-title="美國",HBO 美國主台（2026-11-13 失效）
+http://tvsen7.aynascope.net/hbo/index.m3u8
+#EXTINF:-1 group-title="美國",BBC America（2026-11-13 失效）
+http://23.239.31.26:8989/bbcamerica/index.m3u8
+#EXTINF:-1 group-title="美國",E!
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1 group-title="美國",VICE TV
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+#EXTINF:-1 group-title="拉美",Warner Channel 拉美
+http://38.134.250.110:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="亞洲",Warner TV 亞洲
+https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
+#EXTINF:-1 tvg-id="ROCKEntertainment.sg" group-title="亞洲",ROCK Entertainment
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8
+#EXTINF:-1 group-title="拉美",TNT Series 拉美（2026-11-13 失效）
+http://168.196.127.137:6001/play/a095/index.m3u8
+#EXTINF:-1 group-title="美國",A&E（2026-11-13 失效）
+http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:-1 group-title="美國",ION TV
+http://23.237.104.106:8080/USA_ION/index.m3u8
+#EXTINF:-1 group-title="美國",We TV
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+#EXTINF:-1 group-title="美國",truTV
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+#EXTINF:-1 group-title="捷克",Warner TV 捷克
+http://88.212.15.50/live/warner_tv/index.m3u8
+#EXTINF:-1 group-title="音樂",MTV 美國主台
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1 group-title="音樂",MTV2（2026-11-13 失效）
+http://198.58.104.90:8989/mtv2/index.m3u8
+#EXTINF:-1 group-title="音樂",MTV Live
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title="音樂",CMT
+http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:-1 group-title="音樂",Fuse
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+#EXTINF:-1 group-title="音樂",Mezzo Live
+http://stream.mcquack.net/276/index.m3u8
+#EXTINF:-1 group-title="音樂",Trace Urban
+https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
+#EXTINF:-1 group-title="音樂",Trace Latina
+https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
+#EXTINF:-1 group-title="音樂",AXS TV（2026-11-13 失效）
+https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk" group-title="美國",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
