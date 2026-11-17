@@ -191,3 +191,13 @@ https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" group-title="體育",Tennis Channel
 https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Revry.us" group-title="同志",Revry
+https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="RevryQueer.us" group-title="同志",Revry Queer
+https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RevryLatinX.us" group-title="同志",Revry LatinX
+https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LogoPlutoTV.us" group-title="同志",Logo
+https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
+#EXTINF:-1 tvg-id="MTVDrag.us" group-title="同志",MTV Drag
+https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8
