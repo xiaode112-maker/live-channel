@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="PTS.tw" group-title="台灣",公視 PTS 主台
 https://www.youtube.com/watch?v=C6gYqSHLRw4
-#EXTINF:-1 tvg-id="PTS3.tw" group-title="台灣",小公視 PTS XS
+#EXTINF:-1 tvg-id="PTS3.tw" group-title="台灣",小公視 PTS XS（2026-11-13 失效）
 http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" group-title="台灣",原住民族電視台 TITV
 https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 tvg-id="EBCForeignMovie.tw" group-title="台灣",東森洋片台
+#EXTINF:-1 tvg-id="EBCForeignMovie.tw" group-title="台灣",東森洋片台（2026-11-13 失效）
 http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="TVBSAsia.tw" group-title="台灣",TVBS-Asia 歡樂台
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-id="SJTV.tw" group-title="台灣",信吉電視台 SJTV
+#EXTINF:-1 tvg-id="SJTV.tw" group-title="台灣",信吉電視台 SJTV（2026-11-13 失效）
 http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="TTVNews.tw" group-title="台灣",台視新聞 TTV News
 https://live.wcetv.com/hls/master-ttvnews.m3u8
@@ -21,8 +21,8 @@ http://125.227.210.55:1001/VideoInput/play.ts
 http://125.227.210.55:1004/VideoInput/play.ts
 #EXTINF:-1 tvg-id="NBC.us" group-title="美國",NBC Bay Area KNTV 舊金山灣區
 http://50.229.129.155/0.ts
-#EXTINF:-1 tvg-id="NBC.us@KSBW" group-title="美國",NBC KSBW 蒙特雷-沙利納斯
-https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8
+#EXTINF:-1 tvg-id="NBC.us@WTMJ" group-title="美國",NBC WTMJ 密爾沃基
+https://aegis-cloudfront-1.tubi.video/d4d923f2-17de-4371-b86d-43490499bcdb/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us@KNSD" group-title="美國",NBC 7 San Diego 聖地牙哥
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
 #EXTINF:-1 tvg-id="NBC.us@KRIS" group-title="美國",NBC KRIS-TV 科珀斯克里斯蒂
@@ -75,11 +75,11 @@ https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_ch
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSoul.us" group-title="美國",FOX Soul
 https://foxsoul-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="美國",FX
+#EXTINF:-1 group-title="美國",FX（2026-11-13 失效）
 https://tvsen7.aynascope.net/fx/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" group-title="卡通",Cartoon Network 美國東岸
 https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F212.5.144.156%3A8080%2Fcartoon%2Findex.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us" group-title="卡通",Nickelodeon 美國東岸
+#EXTINF:-1 tvg-id="Nickelodeon.us" group-title="卡通",Nickelodeon 美國東岸（2026-11-13 失效）
 http://198.58.104.90:8989/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="Boomerang.us" group-title="卡通",Boomerang 美國
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
@@ -89,7 +89,7 @@ https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F212.5.144.156
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 group-title="波蘭",HBO 2 波蘭
 http://185.227.34.179:8080/hbo-2-hd/index.m3u8
-#EXTINF:-1 group-title="拉美",Cinemax 拉美
+#EXTINF:-1 group-title="拉美",Cinemax 拉美（2026-11-20 失效）
 https://streaming.onnethn.com/CINEMAX/playlist.m3u8
 #EXTINF:-1 group-title="捷克",Cinemax 捷克
 http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8
@@ -97,7 +97,7 @@ http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8
 http://170.83.16.50/SONY_MOVIES/index.m3u8
 #EXTINF:-1 group-title="美國",Hallmark Movies & More
 https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
-#EXTINF:-1 group-title="美國",AMC
+#EXTINF:-1 group-title="美國",AMC（2026-11-13 失效）
 http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 group-title="美國",Cinemax 美國西岸
 http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
@@ -113,21 +113,21 @@ http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 group-title="美國",Showtime Family Zone
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
-#EXTINF:-1 group-title="美國",HBO 美國主台
+#EXTINF:-1 group-title="美國",HBO 美國主台（2026-11-13 失效）
 http://tvsen7.aynascope.net/hbo/index.m3u8
-#EXTINF:-1 group-title="美國",BBC America
+#EXTINF:-1 group-title="美國",BBC America（2026-11-13 失效）
 http://23.239.31.26:8989/bbcamerica/index.m3u8
 #EXTINF:-1 group-title="美國",E!
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1 group-title="美國",VICE TV
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
-#EXTINF:-1 group-title="拉美",Warner Channel 拉美
+#EXTINF:-1 group-title="拉美",Warner Channel 拉美（2026-11-20 失效）
 http://38.134.250.110:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="亞洲",Warner TV 亞洲
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
-#EXTINF:-1 group-title="拉美",TNT Series 拉美
+#EXTINF:-1 group-title="拉美",TNT Series 拉美（2026-11-13 失效）
 http://168.196.127.137:6001/play/a095/index.m3u8
-#EXTINF:-1 group-title="美國",A&E
+#EXTINF:-1 group-title="美國",A&E（2026-11-13 失效）
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 group-title="美國",ION TV
 http://23.237.104.106:8080/USA_ION/index.m3u8
@@ -139,7 +139,7 @@ http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 http://88.212.15.50/live/warner_tv/index.m3u8
 #EXTINF:-1 group-title="音樂",MTV 美國主台
 http://23.237.104.106:8080/USA_MTV/index.m3u8
-#EXTINF:-1 group-title="音樂",MTV2
+#EXTINF:-1 group-title="音樂",MTV2（2026-11-13 失效）
 http://198.58.104.90:8989/mtv2/index.m3u8
 #EXTINF:-1 group-title="音樂",MTV Live
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
@@ -147,7 +147,7 @@ http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1 group-title="音樂",Fuse
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
-#EXTINF:-1 group-title="音樂",Mezzo Live
+#EXTINF:-1 group-title="音樂",Mezzo Live（2026-11-20 失效）
 http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 group-title="音樂",Trace Urban
 https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
@@ -169,7 +169,7 @@ https://tvsen6.aynaott.com/nfl/index.m3u8
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.us" group-title="體育",Golf Channel
 https://tvsen6.aynaott.com/golfchannel/index.m3u8
-#EXTINF:-1 tvg-id="beINSportsUSA.us" group-title="體育",beIN Sports USA
+#EXTINF:-1 tvg-id="beINSportsUSA.us" group-title="體育",beIN Sports USA（2026-11-20 失效）
 https://tvsen6.aynaott.com/beinsports/index.m3u8
 #EXTINF:-1 tvg-id="CBSSportsHQ.us" group-title="體育",CBS Sports HQ
 https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
@@ -194,10 +194,10 @@ https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Revry.us" group-title="同志",Revry
 https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="RevryQueer.us" group-title="同志",Revry Queer
-https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="RevryLatinX.us" group-title="同志",Revry LatinX
+https://linear-43.frequency.stream/mt/galxy/43/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RevryLatinX.us" group-title="同志",Revry LatinX（2026-11-20 失效）
 https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LogoPlutoTV.us" group-title="同志",Logo
+#EXTINF:-1 tvg-id="LogoPlutoTV.us" group-title="同志",Logo（2026-11-20 失效）
 https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
-#EXTINF:-1 tvg-id="MTVDrag.us" group-title="同志",MTV Drag
+#EXTINF:-1 tvg-id="MTVDrag.us" group-title="同志",MTV Drag（2026-11-20 失效）
 https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8

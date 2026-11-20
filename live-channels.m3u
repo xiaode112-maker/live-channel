@@ -49,8 +49,8 @@ http://125.227.210.55:1001/VideoInput/play.ts
 http://125.227.210.55:1004/VideoInput/play.ts
 #EXTINF:-1 tvg-id="NBC.us" group-title="美國",NBC Bay Area KNTV 舊金山灣區
 http://50.229.129.155/0.ts
-#EXTINF:-1 tvg-id="NBC.us@KSBW" group-title="美國",NBC KSBW 蒙特雷-沙利納斯
-https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8
+#EXTINF:-1 tvg-id="NBC.us@WTMJ" group-title="美國",NBC WTMJ 密爾沃基
+https://aegis-cloudfront-1.tubi.video/d4d923f2-17de-4371-b86d-43490499bcdb/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us@KNSD" group-title="美國",NBC 7 San Diego 聖地牙哥
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
 #EXTINF:-1 tvg-id="NBC.us@KRIS" group-title="美國",NBC KRIS-TV 科珀斯克里斯蒂
@@ -131,7 +131,7 @@ https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 group-title="波蘭",HBO 2 波蘭
 http://185.227.34.179:8080/hbo-2-hd/index.m3u8
-#EXTINF:-1 group-title="拉美",Cinemax 拉美
+#EXTINF:-1 group-title="拉美",Cinemax 拉美（2026-11-20 失效）
 https://streaming.onnethn.com/CINEMAX/playlist.m3u8
 #EXTINF:-1 group-title="捷克",Cinemax 捷克
 http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8
@@ -163,7 +163,7 @@ http://23.239.31.26:8989/bbcamerica/index.m3u8
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1 group-title="美國",VICE TV
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
-#EXTINF:-1 group-title="拉美",Warner Channel 拉美
+#EXTINF:-1 group-title="拉美",Warner Channel 拉美（2026-11-20 失效）
 http://38.134.250.110:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="亞洲",Warner TV 亞洲
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
@@ -192,13 +192,13 @@ http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1 group-title="音樂",Fuse
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
-#EXTINF:-1 group-title="音樂",Mezzo Live
+#EXTINF:-1 group-title="音樂",Mezzo Live（2026-11-20 失效）
 http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 group-title="音樂",Trace Urban
 https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
 #EXTINF:-1 group-title="音樂",Trace Latina
 https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
-#EXTINF:-1 group-title="音樂",AXS TV（2026-11-13 失效）
+#EXTINF:-1 group-title="音樂",AXS TV
 https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" group-title="美國",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
@@ -216,7 +216,7 @@ https://tvsen6.aynaott.com/nfl/index.m3u8
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.us" group-title="體育",Golf Channel
 https://tvsen6.aynaott.com/golfchannel/index.m3u8
-#EXTINF:-1 tvg-id="beINSportsUSA.us" group-title="體育",beIN Sports USA
+#EXTINF:-1 tvg-id="beINSportsUSA.us" group-title="體育",beIN Sports USA（2026-11-20 失效）
 https://tvsen6.aynaott.com/beinsports/index.m3u8
 #EXTINF:-1 tvg-id="CBSSportsHQ.us" group-title="體育",CBS Sports HQ
 https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
@@ -241,14 +241,14 @@ https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" group-title="體育",Tennis Channel
 https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MUTV.uk" group-title="體育",MUTV
-http://103.253.74.210:7070/stream/136/index.m3u8
+https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="Revry.us" group-title="同志",Revry
 https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="RevryQueer.us" group-title="同志",Revry Queer
-https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="RevryLatinX.us" group-title="同志",Revry LatinX
+https://linear-43.frequency.stream/mt/galxy/43/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RevryLatinX.us" group-title="同志",Revry LatinX（2026-11-20 失效）
 https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LogoPlutoTV.us" group-title="同志",Logo
+#EXTINF:-1 tvg-id="LogoPlutoTV.us" group-title="同志",Logo（2026-11-20 失效）
 https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
-#EXTINF:-1 tvg-id="MTVDrag.us" group-title="同志",MTV Drag
+#EXTINF:-1 tvg-id="MTVDrag.us" group-title="同志",MTV Drag（2026-11-20 失效）
 https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8
