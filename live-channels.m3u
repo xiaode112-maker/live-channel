@@ -246,3 +246,8 @@ https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGc
 https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimaxAsia.sg" group-title="卡通",Animax
 http://125.227.210.55:3056/VideoInput/play.ts
+#EXTVLCOPT:http-referrer=https://mov3.co/
+#EXTINF:-1 tvg-id="TVTokyo.jp" group-title="日本",TV Tokyo
+https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
+#EXTINF:-1 tvg-id="Channel4.uk" group-title="英國",Channel 4
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/channel_4/live.livx/playlist.m3u8
