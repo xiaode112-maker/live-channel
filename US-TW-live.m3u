@@ -91,7 +91,7 @@ https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F212.5.144.156
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 group-title="波蘭",HBO 2 波蘭
 http://185.227.34.179:8080/hbo-2-hd/index.m3u8
-#EXTINF:-1 group-title="拉美",Cinemax 拉美（2026-11-20 失效）
+#EXTINF:-1 group-title="拉美",Cinemax 拉美
 https://streaming.onnethn.com/CINEMAX/playlist.m3u8
 #EXTINF:-1 group-title="捷克",Cinemax 捷克
 http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8
@@ -123,7 +123,7 @@ http://23.239.31.26:8989/bbcamerica/index.m3u8
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1 group-title="美國",VICE TV
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
-#EXTINF:-1 group-title="拉美",Warner Channel 拉美（2026-11-20 失效）
+#EXTINF:-1 group-title="拉美",Warner Channel 拉美
 http://38.134.250.110:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="亞洲",Warner TV 亞洲
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
@@ -135,7 +135,7 @@ http://23.239.31.26:8989/aande/index.m3u8
 http://23.237.104.106:8080/USA_ION/index.m3u8
 #EXTINF:-1 group-title="美國",We TV
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
-#EXTINF:-1 group-title="美國",truTV
+#EXTINF:-1 group-title="美國",truTV（2026-11-27 失效）
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:-1 group-title="捷克",Warner TV 捷克
 http://88.212.15.50/live/warner_tv/index.m3u8
@@ -149,13 +149,13 @@ http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1 group-title="音樂",Fuse
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
-#EXTINF:-1 group-title="音樂",Mezzo Live（2026-11-20 失效）
-http://stream.mcquack.net/276/index.m3u8
+#EXTINF:-1 group-title="音樂",Mezzo Live
+http://s7.merlive.am/Mezzo/index.m3u8
 #EXTINF:-1 group-title="音樂",Trace Urban
 https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
 #EXTINF:-1 group-title="音樂",Trace Latina
 https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
-#EXTINF:-1 group-title="音樂",AXS TV
+#EXTINF:-1 group-title="音樂",AXS TV（2026-11-27 失效）
 https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" group-title="體育",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
@@ -165,11 +165,11 @@ http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" group-title="體育",FS1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-#EXTINF:-1 tvg-id="NFLNetwork.us" group-title="體育",NFL Network
+#EXTINF:-1 tvg-id="NFLNetwork.us" group-title="體育",NFL Network（2026-11-27 失效）
 https://tvsen6.aynaott.com/nfl/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" group-title="體育",NBA TV
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GolfChannel.us" group-title="體育",Golf Channel
+#EXTINF:-1 tvg-id="GolfChannel.us" group-title="體育",Golf Channel（2026-11-27 失效）
 https://tvsen6.aynaott.com/golfchannel/index.m3u8
 #EXTINF:-1 tvg-id="beINSportsUSA.us" group-title="體育",beIN Sports USA（2026-11-20 失效）
 https://tvsen6.aynaott.com/beinsports/index.m3u8
